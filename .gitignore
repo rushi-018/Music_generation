@@ -1,5 +1,4 @@
 ﻿data/
 *.mp3
-*.wav
 __pycache__/
 .ipynb_checkpoints/
